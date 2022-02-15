@@ -36,6 +36,7 @@ html{
 .navbar a:hover, .dropdown:hover .dropbtn {
   color: orange;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .dropdown-content {
