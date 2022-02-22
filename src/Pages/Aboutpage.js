@@ -10,11 +10,11 @@ export class Aboutpage extends Component {
                 <p><strong>ĐÔI NÉT VỀ CÔNG TY</strong></p>
                 <p> Trải qua hơn 10 năm hình thành và phát triển Công ty TNHH Thực Phẩm Sạch Thương Mại T&P (Fresh Foods) đã có những bước phát triển không ngừng trong việc cung cấp các sản phẩm thực phẩm sạch nhập khẩu đến tận tay người tiêu dùng với các nhóm sản phẩm chính:</p>
                 <ul>
-                    <li>Thịt bò Úc, Mỹ</li>
-                    <li>Thịt Cừu Úc</li>
-                    <li>Cá hồi Nauy</li>
-                    <li>Gia vị Hàn Quốc, Nhật Bản</li>
-                    <li>Trái cây nhập khẩu</li>
+                    <li><a href="./">Thịt bò Úc, Mỹ</a></li>
+                    <li><a href="./">Thịt Cừu Úc</a></li>
+                    <li><a href="./">Cá hồi Nauy</a></li>
+                    <li><a href="./">Gia vị Hàn Quốc, Nhật Bản</a></li>
+                    <li><a href="./">Trái cây nhập khẩu</a></li>
                 </ul>
                 <p>Với đội ngũ nhân viên trẻ được đào tạo chuyên nghiệp, năng động dưới sự dẫn dắt của chủ đầu tư có hơn 20 năm kinh nghiệm nhập khẩu và kinh doanh trong lĩnh vực thực phẩm, chúng tôi luôn chủ động trong việc kiểm soát chất lượng đầu vào và đầu ra thực phẩm một cách toàn diện nhất nhằm đem đến tay người tiêu dùng sản phẩm chất lượng tốt nhất. </p>
                 <p>Với đội ngũ nhân viên trẻ được đào tạo chuyên nghiệp, năng động dưới sự dẫn dắt của chủ đầu tư có hơn 20 năm kinh nghiệm nhập khẩu và kinh doanh trong lĩnh vực thực phẩm, chúng tôi luôn chủ động trong việc kiểm soát chất lượng đầu vào và đầu ra thực phẩm một cách toàn diện nhất nhằm đem đến tay người tiêu dùng sản phẩm chất lượng tốt nhất. </p>
